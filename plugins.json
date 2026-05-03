@@ -1,0 +1,17 @@
+{
+  "registry_version": "1.0",
+  "plugins": {
+    "gateway": {
+      "name": "Gateway Plugin",
+      "description": "Provides Gateway connectivity services including domain binding, tunnel management, and remote execution via Unix Domain Socket",
+      "repository": "https://github.com/ZASCAteam/gateway",
+      "version": "1.0.0"
+    },
+    "qq_verification": {
+      "name": "QQ Verification Plugin",
+      "description": "验证用户QQ号是否在指定群内，支持开户申请验证和云电脑用户验证",
+      "repository": "https://github.com/ZASCAteam/qq_verification",
+      "version": "1.0.0"
+    }
+  }
+}
