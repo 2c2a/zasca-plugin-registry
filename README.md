@@ -1,6 +1,6 @@
-# ZASCA Plugin Registry
+# 2c2a Plugin Registry
 
-ZASCA 插件仓库 - 存储插件地址信息，开发者可通过 PR 更新。
+2c2a 插件仓库 - 存储插件地址信息，开发者可通过 PR 更新。
 
 ## 插件列表格式
 
