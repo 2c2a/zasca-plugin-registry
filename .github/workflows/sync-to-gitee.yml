@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 env:
-  GITHUB_OWNER: trustedinster
+  GITHUB_OWNER: 2c2a
   GITEE_OWNER: Bilibili-Supercmd
   GIT_USER_NAME: BiliBili UP主Supercmd
   GIT_USER_EMAIL: trustedinster@outlook.com
