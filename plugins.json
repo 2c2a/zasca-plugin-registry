@@ -5,7 +5,7 @@
       "name": "Gateway Plugin",
       "description": "Provides Gateway connectivity services including domain binding, tunnel management, and remote execution via Unix Domain Socket",
       "repository": "https://github.com/2c2a/gateway",
-      "version": "1.0.0"
+      "version": "b9c7ef6"
     },
     "qq_verification": {
       "name": "QQ Verification Plugin",
